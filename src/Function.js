@@ -1,3 +1,4 @@
+
 const Function = (a) => {
   return a * 2;
 };
